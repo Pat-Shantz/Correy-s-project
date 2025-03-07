@@ -5,3 +5,11 @@ body {
     height:100vh;
     background-color:#f0f0f0;
 }
+
+.calculator {
+    border:1px solid #ccc;
+    padding:20px;
+    background-color:white;
+    box-shadow: 0 0 10px rgb(0, 0, 0, 0.1);
+}
+
